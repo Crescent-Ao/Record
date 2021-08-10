@@ -19,7 +19,7 @@
 - Git安装
 - 搜狗输入安装
 - nvidia驱动安装
-- ![驱动版本](/home/ao/Record/nvidia.png)
+- ![驱动版本](nvidia.png)
 - anaconda3安装
 - cuda
 - cudnn
