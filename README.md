@@ -41,7 +41,7 @@
 
 - 接着就是系统分区了,下面是整体的分布情况,可以使用DiskGenius软件或者系统自身磁盘管理(在Windows下面)，这个可以去找找其他人，应该很简答哒，注意不要误删Windows的系统文件和注意备份
 
-  ![分区](/home/ao/Record/data.png)
+  ![分区](data.png)
 
 - Bios设置，ctrl+fn+f2,进入BIOS系统，在这一步我们需要禁用Fast boot 和 security boot即两个安全设置，注意在禁用security,重启电脑后会触发Windows自带的Bitlocker恢复，输入此驱动器的恢复秘钥，这个用其他电脑或者手机输入,[恢复链接](https://acount.microsoft.com/devices/recoverykey),一定要注意激活Windows时注册的账号和密码等等，输入后Windows也可正常进入。
 
@@ -51,7 +51,7 @@
 
   #### 下面就是前面遇到的最大的坑点之一-网络的问题
 
-  ![](/home/ao/Record/1.jpg)
+  ![](1.jpg)
 
 ![](2.jpg)
 
